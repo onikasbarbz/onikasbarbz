@@ -1,6 +1,8 @@
 # hey, i'm luniva ⌨️
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=A78BFA&width=750&lines=i+build+things+that+(usually)+work.;full-stack+dev+%2B+ml+engineer.;react+native+%7C+node.js+%7C+tensorflow.;always+building+something+new.)](https://git.io/typing-svg)
+> i build things that (<sup>usually</sup>) work — full-stack apps, ml models, and the occasional project that spirals into something way bigger than planned.
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=A78BFA&width=750&lines=journal+entries+in+jupyter+notebooks+✨)](https://git.io/typing-svg)
 
 ---
 
@@ -30,4 +32,4 @@ luniva = {
 
 ---
 
-![wave](https://capsule-render.vercel.app/api?type=waving&color=A78BFA&height=80&section=footer&fontSize=20&fontColor=ffffff&animation=fadeIn&text=based+in+kathmandu,+nepal+🇳🇵)
+![wave](https://capsule-render.vercel.app/api?type=waving&color=A78BFA&height=120&section=footer&fontSize=18&fontColor=ffffff&animation=fadeIn&text=vision+boarding+%26+gradient+descending+✨&desc=journal+entries+in+jupyter+notebooks+•+shipping+code+•+manifesting+lower+loss+curves&descSize=13&descAlignY=75)
