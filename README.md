@@ -1,6 +1,6 @@
 # hey, i'm luniva ⌨️
 
-> i build things that (<sup>usually</sup>) work — full-stack apps, ml models, and the occasional project that spirals into something way bigger than planned (for instance, this profile readme).
+> i build things that (usually) work — full-stack apps, ml models, and the occasional project that spirals into something way bigger than planned.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=A78BFA&width=750&lines=been+writing+journal+entries+in+colab+notebooks)](https://git.io/typing-svg)
 
@@ -8,10 +8,8 @@
 
 ```python
 luniva = {
-    "currently":  "final year. surviving. caffeinated.",
+    "currently":  "final year. surviving.",
     "into":       ["machine learning", "ai agents", "building things that stick"],
-    "stack":      ["React Native", "Node.js", "PostgreSQL", "Python", "TensorFlow"],
-    "fun_fact":   "trained a model to detect fake news before i could detect bad commits"
 }
 ```
 
