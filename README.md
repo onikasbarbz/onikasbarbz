@@ -1,10 +1,6 @@
 # hey, i'm luniva ⌨️
 
-<div align="right">
-  <img src="https://media.giphy.com/media/hkqefnFjn2MWVl6xvq/giphy.gif" width="120"/>
-</div>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=A78BFA&width=750&lines=i+build+things+that+(usually)+work.;full-stack+dev+%2B+ml+engineer.;react+native+%7C+node.js+%7C+tensorflow.;always+building+something+new.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=A78BFA&width=750&lines=i+build+things+that+(usually)+work.;full-stack+dev+%2B+ml+engineer.;react+native+%7C+node.js+%7C+tensorflow.;always+building+something+new.)](https://git.io/typing-svg)
 
 ---
 
@@ -34,10 +30,4 @@ luniva = {
 
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/hkqefnFjn2MWVl6xvq/giphy.gif" width="60"/>
-  &nbsp;&nbsp;
-  <em>based in kathmandu, nepal. </em>
-  &nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/hkqefnFjn2MWVl6xvq/giphy.gif" width="60"/>
-</div>
+![wave](https://capsule-render.vercel.app/api?type=waving&color=A78BFA&height=80&section=footer&fontSize=20&fontColor=ffffff&animation=fadeIn&text=based+in+kathmandu,+nepal+🇳🇵)
