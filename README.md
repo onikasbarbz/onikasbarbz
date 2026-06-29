@@ -7,11 +7,11 @@
 ---
 ```
 luniva = {
-    "currently": "building more than i break.",
+    "currently": "final year. still compiling.",
     "into": [
         "machine learning",
         "ai agents",
-        "shipping projects",
+        "building things that stick",
     ],
 }
 ```
