@@ -31,5 +31,17 @@ luniva = {
 </p>
 
 ---
+
+> **psst. while you're here —**
+
+```python
+if you_care_about("food waste") or you_like("cool full-stack builds"):
+    checkout("SaveABite")  # no eta. just go.
+```
+
+→ **[onikasbarbz/SaveABite](https://github.com/onikasbarbz/SaveABite)**
+
+---
+
 ![wave](https://capsule-render.vercel.app/api?type=waving&color=4c1d95&height=120&section=footer&fontSize=12&fontColor=a78bfa&animation=fadeIn&width=1500)
 
