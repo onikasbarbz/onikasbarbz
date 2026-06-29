@@ -31,5 +31,5 @@ luniva = {
 </p>
 
 ---
-![wave](https://capsule-render.vercel.app/api?type=waving&color=4c1d95&height=120&section=footer&fontSize=12&fontColor=a78bfa&animation=fadeIn)
+![wave](https://capsule-render.vercel.app/api?type=waving&color=4c1d95&height=120&section=footer&fontSize=12&fontColor=a78bfa&animation=fadeIn&width=1500)
 
