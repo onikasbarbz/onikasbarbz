@@ -6,12 +6,14 @@
 
 ---
 
-```python
 luniva = {
-    "currently":  "final year. surviving.",
-    "into":       ["machine learning", "ai agents", "building things that stick"],
+    "currently": "building more than i break.",
+    "into": [
+        "machine learning",
+        "ai agents",
+        "shipping projects",
+    ],
 }
-```
 
 ---
 
