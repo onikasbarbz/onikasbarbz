@@ -2,7 +2,7 @@
 
 > i build things that (<sup>usually</sup>) work — full-stack apps, ml models, and the occasional project that spirals into something way bigger than planned.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=A78BFA&width=750&lines=journal+entries+in+jupyter+notebooks+✨)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=A78BFA&width=750&lines=journal+entries+in+jupyter+notebooks)](https://git.io/typing-svg)
 
 ---
 
@@ -31,5 +31,5 @@ luniva = {
 </p>
 
 ---
+![wave](https://capsule-render.vercel.app/api?type=waving&color=4c1d95&height=120&section=footer&fontSize=12&fontColor=a78bfa&animation=fadeIn)
 
-![wave](https://capsule-render.vercel.app/api?type=waving&color=A78BFA&height=120&section=footer&fontSize=18&fontColor=ffffff&animation=fadeIn&text=vision+boarding+%26+gradient+descending+✨&desc=journal+entries+in+jupyter+notebooks+•+shipping+code+•+manifesting+lower+loss+curves&descSize=13&descAlignY=75)
