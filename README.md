@@ -1,6 +1,8 @@
 # hey, i'm luniva 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=500&color=A78BFA&width=750&lines=i+build+things+that+(usually)+work+—;full-stack+apps%2C+ml+models%2C;and+the+occasional+project+that+spirals;into+something+way+bigger+than+planned.)](https://git.io/typing-svg)
+<img align="right" src="https://media.giphy.com/media/ea74cjF0jieXu/giphy.gif" width="150"/>
+
+> i build things that (<sup>usually</sup>) work — full-stack apps, ml models, and the occasional project that spirals into something way bigger than planned. write this in animated text
 
 ---
 ```
