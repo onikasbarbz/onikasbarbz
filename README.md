@@ -1,10 +1,14 @@
-# hey, i'm luniva 
-<img align="right" src="https://media.giphy.com/media/hkqefnFjn2MWVl6xvq/giphy.gif" width="90"/>
+# hey, i'm luniva ⌨️
 
-> i build things that (<sup>usually</sup>) work — full-stack apps, ml models, and the occasional project that spirals into something way bigger than planned.
+<div align="right">
+  <img src="https://media.giphy.com/media/hkqefnFjn2MWVl6xvq/giphy.gif" width="120"/>
+</div>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=A78BFA&width=750&lines=i+build+things+that+(usually)+work.;full-stack+dev+%2B+ml+engineer.;react+native+%7C+node.js+%7C+tensorflow.;always+building+something+new.)](https://git.io/typing-svg)
 
 ---
-```
+
+```python
 luniva = {
     "currently":  "final year. surviving. caffeinated.",
     "into":       ["machine learning", "ai agents", "building things that stick"],
@@ -12,11 +16,12 @@ luniva = {
     "fun_fact":   "trained a model to detect fake news before i could detect bad commits"
 }
 ```
+
 ---
 
 **currently cooking with**
 
-<p align="left" style="background-color:#f5f0ff; padding:10px; border-radius:10px;">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
@@ -29,4 +34,10 @@ luniva = {
 
 ---
 
-*based in kathmandu, nepal*
+<div align="center">
+  <img src="https://media.giphy.com/media/hkqefnFjn2MWVl6xvq/giphy.gif" width="60"/>
+  &nbsp;&nbsp;
+  <em>based in kathmandu, nepal. </em>
+  &nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/hkqefnFjn2MWVl6xvq/giphy.gif" width="60"/>
+</div>
