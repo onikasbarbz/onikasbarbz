@@ -5,7 +5,7 @@
 
 
 ---
-```
+```python
 luniva = {
     "currently": "final year. still compiling.",
     "into": [
@@ -34,9 +34,10 @@ luniva = {
 
 > **psst. while you're here —**
 
-```python
-if you_care_about("food waste") or you_like("cool full-stack builds"):
-    checkout("SaveABite")  # no eta. just go.
+```java
+if (youCareAbout("food waste") || youLike("cool full-stack builds")) {
+    checkout("SaveABite"); // no eta. just go.
+}
 ```
 
 → **[onikasbarbz/SaveABite](https://github.com/onikasbarbz/SaveABite)**
