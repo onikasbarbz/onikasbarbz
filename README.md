@@ -2,7 +2,7 @@
 
 > i build things that (<sup>usually</sup>) work — full-stack apps, ml models, and the occasional project that spirals into something way bigger than planned.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=A78BFA&width=750&lines=journal+entries+in+jupyter+notebooks)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=A78BFA&width=750&lines=been+writing+journal+entries+in+jupyter+notebooks)](https://git.io/typing-svg)
 
 ---
 
