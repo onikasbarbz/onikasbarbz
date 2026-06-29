@@ -1,7 +1,7 @@
 # hey, i'm luniva 
 <img align="right" src="https://media.giphy.com/media/hkqefnFjn2MWVl6xvq/giphy.gif" width="90"/>
 
-> i build things that (<sup>usually</sup>) work — full-stack apps, ml models, and the occasional project that spirals into something way bigger than planned. write this in animated text
+> i build things that (<sup>usually</sup>) work — full-stack apps, ml models, and the occasional project that spirals into something way bigger than planned.
 
 ---
 ```
