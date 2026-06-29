@@ -7,14 +7,14 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=A78BFA&width=600&lines=i+build+things+that+(usually)+work;full-stack+apps%2C+ml+models%2C+the+occasional+spiral;final+year.+surviving.+caffeinated.)](https://git.io/typing-svg)
 
 ---
-
+```
 luniva = {
     "currently":  "final year. surviving. caffeinated.",
     "into":       ["machine learning", "ai agents", "building things that stick"],
     "stack":      ["React Native", "Node.js", "PostgreSQL", "Python", "TensorFlow"],
     "fun_fact":   "trained a model to detect fake news before i could detect bad commits"
 }
-
+```
 ---
 
 **currently cooking with**
